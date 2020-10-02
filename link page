@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+         <title>AQSA NIZAM</title>
+        </head>
+        <body>
+            <header>
+                <nav>
+
+                </nav>
+            </header>
+            <div>
+            <h1>AQSA NIZAM</h1>
+            <h2>AQSA NIZAM</h2>
+            <h3>AQSA NIZAM</h3>
+            <h4>AQSA NIZAM</h4>
+            <h5>AQSA NIZAM</h5>
+            <h6>AQSA NIZAM</h6>
+            
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. At voluptas excepturi obcaecati dolor, deserunt animi maiores amet explicabo ducimus ad, aliquam beatae repellendus quis sit architecto consequuntur ipsam voluptatem aspernatur.</p><p>copy;</p>
+                  <ul>
+                      <li><a href="index.html">Home</a></li>
+                      <li><a href="about.html">About</a></li>
+                      <li><a href="portfolio.html">Portfolio</a></li>
+                      <li><a href="contact.html">Contact</a></li>
+                      
+
+
+
+                  </ul>
+            </div>
+            <footer>
+
+            </footer>
+
+
+
