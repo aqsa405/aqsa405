@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link href="https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@700&display=swap" rel="stylesheet">
+
+    <style>
+
+    h1{
+color: rgb(35, 6, 223);
+background-color: #ff0000;
+font-weight: 900;
+text-align:center;
+    }
+p{
+ font-size: 30px;
+ font-family: 'Sansita Swashed' , New, Courier, monospace;
+ font-weight: 700;
+ word-spacing: 1px;
+ letter-spacing: 0px;
+ text-align:justify;
+ line-height:40px;
+ box-shadow: 3px 3px 2px brown;
+ text-shadow: 3px 3px 2px goldenrod;
+
+}
+
+a{
+     text-decoration: none;
+}
+    </style>
+</head>
+<body>
+     <h1>HELLO WORLD</h1>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius architecto, veniam consectetur laudantium repudiandae ipsa maxime voluptate suscipit vero cum sit? Voluptates harum ducimus qui? Atque minus ex error molestias.</p>
+    <a href="../../index.html">Go back</a>
+ <table border="1">
+<thead>
+    <th>Name</th>
+    <th>Age</th>
+    <th>Place</th>
+    <th>class</th>
+ </thead>
+ <tbody>
+<tr>
+     <td>Aqsa</td>
+     <td>19</td>
+     <td>Karachi</td>
+     <td rowspan="4">A</td>
+</tr>
+<tr>
+     <td>Hafsa</td>
+     <td>18</td>
+     <td>London</td>
+</tr>
+<tr>
+     <td>Aiman</td>
+     <td>28</td>
+     <td>Paris</td>
+</tr>
+<tr>
+     <td>Sadia</td>
+     <td>24</td>
+     <td>Maldives</td>
+</tr>
+
+<tr>
+    <td colspan="4">Total Marks 850</td>
+</tr>
+
+ <t/body>
+ </table>
+
+
+<table border="1">
+<thead>
+     <th colspan="5">Room Tarrif</th>
+</thead>
+<tbody>
+     <tr>
+     <td rowspan="3">Room Type</td>
+     <td colspan="2">Deluxe</td>
+     <td colspan="2">Executive</td>
+     </tr>
+
+<tr>
+     <td>AC</td>
+     <td>Non Ac</td>
+     <td>AC</td>
+     <td>Non Ac</td>
+</tr>
+
+<tr>
+     <td>2500</td>
+     <td>1000</td>
+     <td>2500</td>
+     <td>1000</td>
+
+    </tr>
+</tbody>
+
+
+
+
+
+
+
+
+
+
+</table>
+
+
+
+
+
+
+
+</body>
+</html>
