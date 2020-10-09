@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+       *{
+            border: 1px solid black;
+            height: 50px;
+             }
+#navbar{
+        background-color: plum
+}
+.left_side_nav{
+              background-color: cadetblue
+}
+.logo{
+              background-color: bisque
+}
+.right_side_nav{
+              background-color: burlywood
+}
+#container{
+              background-color: paleturquoise
+}
+.left_menu{
+              background-color: palevioletred
+}
+.main_content{
+              background-color: brown
+}
+.site_ads{
+              background-color: beige
+}
+#footer{
+         background-color: darkgray
+}
+
+
+
+    </style>
+</head>
+<body>
+    <div id="navbar">
+        <div class="logo">
+           <img width="100"
+              src="https://laz-img-cdn.alicdn.com/images/ims-web/TB1F29NfwZC2uNjSZFnXXaxZpXa.png"
+           >
+        </div>
+       <div class="left_side_nav">
+               <ul>
+
+                <li>BEST SELLERS</li>
+                <li>NEW ARRIVALS</li>
+                <li>ABOUT</li>
+                <li>STORE</li>
+                <li>FAQ'S</li>
+               </ul>
+             </div>
+        <div class="right_side_nav">
+                <ul>
+
+                        <li>CHECKOUT</li>
+                        <li>CART</li>
+                        <li>SEACH</li>
+                       </ul>
+     </div>
+     </div>
+
+     <div id="container">
+            <div class="left_menu"></div>
+            <div class="main_content"></div>
+            <div class="site_ads"></div>
+         </div>
+<div id="footer">
+<div>
+</div>
+
+<div class="copy">
+
+</div>
+</div>
+
+
+
+
+
+
+</body>
+</html>
