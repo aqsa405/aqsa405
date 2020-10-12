@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+      *{
+          margin: 0;
+          padding: 0;
+       }
+
+header{
+        background-color: plum
+}
+.left_side_nav{
+              background-color: cadetblue
+}
+.logo{
+              background-color: bisque
+}
+.right_side_nav{
+              background-color: burlywood
+}
+section{
+              background-color: paleturquoise
+             margin: 0px 20px 0px 20px ;
+}
+.left_menu{
+              background-color: rgb(153, 81, 153);
+              color: rgb(92, 2, 6);
+              margin: 20px;
+              padding: 20px;
+              border-width: 14px 7px 14px 7px;
+              border-style: double dotted double dotted;
+              border-color: rgb(185, 32, 32) rgb(0, 0, 0) rgb(24, 24, 114) rgb(1, 109, 82) ;
+
+}
+.main_content{
+              background-color: rgb(155, 136, 136)
+}
+.site_ads{
+              background-color: rgb(194, 194, 127)
+}
+footer{
+         background-color: darkgray
+}
+
+section{
+   background-color: deeppink
+}
+
+    </style>
+</head>
+<body>
+    <header>
+        <div class="logo">
+           <img width="100"
+              src="https://laz-img-cdn.alicdn.com/images/ims-web/TB1F29NfwZC2uNjSZFnXXaxZpXa.png"
+           >
+        </div>
+       <div class="left_side_nav">
+               <ul>
+
+                <li>BEST SELLERS</li>
+                <li>NEW ARRIVALS</li>
+                <li>ABOUT</li>
+                <li>STORE</li>
+                <li>FAQ'S</li>
+               </ul>
+             </div>
+        <div class="right_side_nav">
+                <ul>
+
+                        <li>CHECKOUT</li>
+                        <li>CART</li>
+                        <li>SEACH</li>
+                       </ul>
+     </div>
+    </header>
+
+     <section>
+            <div class="left_menu">
+               <h1>LEFT MENU</h1>
+            </div>
+            <div class="main_content">
+               <h1>MAIN CONTENT</h1>
+            </div>
+            <div class="site_ads">
+               <h1>ADS</h1>
+            </div>
+     </section>
+<footer>
+
+<div class="copy">
+<p>&copy;AQSA NIZAM 2020</p>
+</div>
+</footer>
+
+
+
+
+
+
+</body>
+</html>
