@@ -1,0 +1,45 @@
+<br>
+<br>
+<br>
+<table class="MY_DATA">
+<thead>
+   <tr>
+      <th>Company</th>
+      <th>Contact</th>
+      <th>Country</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+   <td>Alfreds Futterkiste</td>
+   <td>Maria Anders</td>
+   <td>Germany</td>
+</tr>
+<tr>
+   <td>Berglunds Snabbkop</td>
+   <td>Christina Berglund</td>
+   <td>Sweden</td>
+</tr>
+<tr>
+   <td>Centro Commercial Mocktezuma </td>
+   <td>Fransico Chang</td>
+   <td>Mexico</td>
+</tr>
+</tbody>
+</table>
+
+ </section>
+<footer>
+
+<div class="copy">
+<p>&copy;AQSA NIZAM 2020</p>
+</div>
+</footer>
+
+
+
+
+
+
+</body>
+</html>
