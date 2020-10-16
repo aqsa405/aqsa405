@@ -1,0 +1,65 @@
+*{
+    margin: 0px;
+    border:0px;
+
+}
+
+header{
+    background-color: rgb(190, 199, 61);
+}
+section{
+    overflow: auto
+}
+
+.left_menu{
+    margin: 20px;
+    border: 20px;
+}
+section .left_menu h1:nth-child(3){
+    color: rgb(10, 82, 82);
+}
+section .left_menu h1:nth-child(4){
+    color: rgb(160, 68, 3);
+}
+.left_side_nav ul li:nth-child(1){
+    color: rgb(139, 0, 0)
+}
+.left_side_nav ul li a:link{
+   color:white;
+   text-decoration: none;
+}
+.left_side_nav ul li a:visited{
+    color: white;
+    text-decoration: none;
+ }
+ .left_side_nav ul li a:hover{
+    color: red;
+    text-decoration: underline;
+    padding: 10px;
+    border: 1px solid yellow;
+    border-radius:11px;
+ }
+ .MY_DATA thead:hover{
+     margin: 20px;
+     border: 5px solid black;
+     background-color: rgb(205, 196, 255);
+     color: rgba(238, 6, 122, 0.226);
+ }
+ .MY_DATA, thead, tbody, tr, td{
+    border: 10px solid black;
+    }
+ .MY_DATA td{
+    margin: 10px;
+    padding: 10px;
+    }
+
+.MY_DATA tbody,tr:nth-child(even):hover{
+        background-color: rgb(230, 234, 235);
+        color: rgb(15, 8, 8);
+    }
+
+
+.MY_DATA tbody tr:nth-child(odd):hover{
+       color: burlywood;
+      background-color: blueviolet;
+        }
